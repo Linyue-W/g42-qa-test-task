@@ -1,0 +1,2 @@
+pycountry
+allure-pytest

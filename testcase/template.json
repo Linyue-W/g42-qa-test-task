@@ -1,0 +1,61 @@
+{
+  "category": [
+    "Men's Clothing"
+  ],
+  "debug": "",
+  "currency": "EUR",
+  "customer_first_name": "Eddie",
+  "customer_full_name": "Eddie Underwood",
+  "customer_gender": "MALE",
+  "customer_id": 38,
+  "customer_last_name": "Underwood",
+  "customer_phone": "",
+  "day_of_week": "Monday",
+  "day_of_week_i": 0,
+  "email": "eddie@underwood-family.zzz",
+  "manufacturer": [
+    "Elitelligence"
+  ],
+  "order_date": "2022-10-31T09:28:48+00:00",
+  "order_id": 584677,
+  "products": [
+    {
+      "base_price": 11.99,
+      "discount_percentage": 0,
+      "quantity": 1,
+      "manufacturer": "Elitelligence",
+      "tax_amount": 0,
+      "product_id": 6283,
+      "category": "Men's Clothing",
+      "sku": "ZO0549605496",
+      "taxless_price": 11.99,
+      "unit_discount_amount": 0,
+      "min_price": 6.35,
+      "_id": "sold_product_584677_6283",
+      "discount_amount": 0,
+      "created_on": "2016-12-26T09:28:48+00:00",
+      "product_name": "Basic T-shirt - dark blue/white",
+      "price": 11.99,
+      "taxful_price": 11.99,
+      "base_unit_price": 11.99
+    }
+  ],
+  "sku": ["ZO0549605496"],
+  "taxful_total_price": 36.98,
+  "taxless_total_price": 36.98,
+  "total_quantity": 2,
+  "total_unique_products": 2,
+  "type": "order",
+  "user": "eddie",
+  "geoip": {
+    "country_iso_code": "EG",
+    "location": {
+      "lon": 31.3,
+      "lat": 30.1
+    },
+    "continent_name": ""
+  },
+  "event": {
+    "dataset": ""
+  }
+}
